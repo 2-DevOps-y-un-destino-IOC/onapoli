@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: app-p3
-          image: juzzrespecter/inception_of_things_app:v2
+          image: juzzrespecter/inception_of_things_app:v1
           ports:
           - containerPort: 3000
